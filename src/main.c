@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "salloc.h"
+#include "salloc/salloc.h"
 
 int main (){
     char *test = salloc(10);
